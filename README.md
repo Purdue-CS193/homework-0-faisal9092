@@ -1,10 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZTIRwRWR)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11641235&assignment_repo_type=AssignmentRepo)
 # CS 193 Homework 0 - GitHub and Your Own Website!
-# Faisal's First CS193 Homework
-- The teachers look like cool people
-- the subject seems really interesting
-- again, the lecturers are interesting people and seem like they will make the class fun!
+
 ## What is this assignment
 
 Throughout this homework, you will create a personal GitHub account, use that GitHub account to modify some code from the homework repository, and then submit it to us for grading! This same basic process will be used throughout CS193 to complete and turn in all of your homework. For this first one, we're focusing on getting you used to the process.
